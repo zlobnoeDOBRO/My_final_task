@@ -1,7 +1,6 @@
 * {
 	font-family: 'Montserrat', sans-serif;
 }
-
 body {
 	width: 100%;
 	margin: 0px;
@@ -44,7 +43,7 @@ body {
 		box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 1);
 	}
 	img {
-		border: 20px solid white;
+		border: 20px solid rgb(134, 20, 20);
 		border-radius: 50%;
 		margin-top: 8%;
 		margin-bottom: -15% !important;
@@ -261,7 +260,7 @@ body {
 	.name {
 		text-align: center;
 		font-size: 2.5em;
-		color: gainsboro;
+		color: rgb(71, 27, 95);
 		margin-top: 16%;
 		margin-bottom: auto;
 		text-transform: capitalize;
@@ -269,7 +268,7 @@ body {
 	.subtitle {
 		text-align: center;
 		font-size: 2em;
-		color: darkgray;
+		color: rgb(122, 110, 212);
 	}
 	.icons {
 		font-size: 15px;
