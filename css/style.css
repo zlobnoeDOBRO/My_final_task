@@ -253,7 +253,7 @@ body {
 		box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 1);
 	}
 	img {
-		border: 15px solid white;
+		border: 15px solid rgb(122, 88, 127);
 		margin-bottom: -18% !important;
 		border-radius: 50%;
 		width: 30%;
@@ -261,7 +261,7 @@ body {
 	.name {
 		text-align: center;
 		font-size: 2.5em;
-		color: gainsboro;
+		color: rgb(71, 27, 95);
 		margin-top: 16%;
 		margin-bottom: auto;
 		text-transform: capitalize;
