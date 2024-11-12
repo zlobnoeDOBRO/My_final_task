@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title>Git - команды</title>
+      <title>Docker команды</title>
       <link rel="stylesheet" type="text/css" href="../css/style.css">
       <link rel="stylesheet" type="text/css" href="../css/font-awesome.css">
       <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
@@ -12,13 +12,15 @@
    <body>
       <!--Card-->
       <div class="card">
-         <p class="subtitle">Git - команды</p>
+         <p class="subtitle">Docker - команды</p>
           <ul>
-            <li>git add — добавление файлов в индекс.</li>
-            <li>git status — проверка статуса репозитория.</li>
-            <li>git commit — добавление файлов в репозиторий. </li>
-            <li>git branch — создание новой ветки, просмотр веток, переключение между ними.</li>
-            <li>git push — отправка изменений в удалённый репозиторий.</li>
+            <li>docker pull – получить образ приложения.</li>
+            <li>docker images – вывести список образов.</li>
+            <li>docker run -dp – запустить контейнер с образом. </li>
+            <li>docker ps – вывести запущенные контейнеры.</li>
+            <li>docker stop id_контейнера – остановить контейнер.</li>
+            <li>docker restart id_контейнера – перезапустить контейнер.</li>
+            <li>docker image rm -f id_образа – удалить образ.</li>
          </ul>
       </div>
       <!--footer-->
