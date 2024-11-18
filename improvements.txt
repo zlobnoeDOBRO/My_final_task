@@ -9,7 +9,7 @@
 Файл cmd.html.
 1.fadein.заменена буква
 2.https://fonts.googleapis.com/css?family=Montserrat:700" rel="stylesheet">. Неуместная ссылка 
-3. 
+3.Mkdir.Создание новых катлогов.
 
 
 Файл mac.html.
@@ -20,5 +20,5 @@
 
 Файл git.html
 1. & copy. Отделено
-2. 
+2. cd.Изменение рабочего католога.
 3. 
