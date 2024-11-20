@@ -7,7 +7,7 @@
 .
 
 Файл cmd.html.
-1.fadein.заменена буква
+1.fadeIn.Большая буква
 2.https://fonts.googleapis.com/css?family=Montserrat:700" rel="stylesheet">. Неуместная ссылка 
 3.Mkdir.Создание новых катлогов.
 
