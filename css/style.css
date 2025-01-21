@@ -19,7 +19,7 @@ body {
 
 .location>a {
 	text-decoration: none;
-	color: white;
+	color: rgb(52, 3, 56);
 }
 
 .location:hover {
@@ -53,7 +53,7 @@ body {
 	.name {
 		text-align: center;
 		font-size: 2.8em;
-		color: gainsboro;
+		color: rgb(70, 12, 67);
 		margin-top: 15%;
 		margin-bottom: auto;
 		text-transform: capitalize;
@@ -67,7 +67,7 @@ body {
 	.subtitle {
 		text-align: center;
 		font-size: 1.5em;
-		color: darkgray;
+		color: rgb(162, 57, 155);
 	}
 	.icons {
 		font-size: 18px;
