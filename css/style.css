@@ -67,7 +67,7 @@ body {
 	.subtitle {
 		text-align: center;
 		font-size: 1.5em;
-		color: darkgray;
+		color: rgb(129, 25, 25);
 	}
 	.icons {
 		font-size: 18px;
@@ -135,7 +135,7 @@ body {
 	.subtitle {
 		text-align: center;
 		font-size: 1.2em;
-		color: darkgray;
+		color: rgb(129, 25, 25);
 	}
 	.icons {
 		font-size: 11px;
@@ -203,7 +203,7 @@ body {
 	.subtitle {
 		text-align: center;
 		font-size: 1.9em;
-		color: darkgray;
+		color: rgb(129, 25, 25)gray;
 	}
 	.icons {
 		font-size: 18px;
@@ -269,7 +269,7 @@ body {
 	.subtitle {
 		text-align: center;
 		font-size: 2em;
-		color: darkgray;
+		color: rgb(129, 25, 25);
 	}
 	.icons {
 		font-size: 15px;
