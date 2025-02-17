@@ -14,7 +14,7 @@ body {
 
 .icons>a {
 	text-decoration: none;
-	color: darkgray;
+	color:blue;
 }
 
 .location>a {
@@ -296,6 +296,6 @@ body {
 /*---------- Responsive Grid Ends ---------------*/
 footer {
 	text-align: center;
-	color: white;
+	color: green;
 	font-size: 1.2em
 }
