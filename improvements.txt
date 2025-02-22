@@ -1,10 +1,41 @@
 При выполнении работы были внесены следующие улучшения
 
 Файл index.html.
-1. Заменен аватар
-2. ...
-3. ...
-...
+1. Заменен фавикон
+2. Ошибки в style.css:
+название Основные инструменты было блеклым по цвету
+.name {
+		text-align: center;
+		font-size: 2.5em;
+		color: rgb(229, 221, 221);
+		margin-top: 16%;
+		margin-bottom: auto;
+		text-transform: capitalize;, а должно быть
+.name {
+		text-align: center;
+		font-size: 2.5em;
+		color: rgba(175,133,255,1);
+		margin-top: 16%;
+		margin-bottom: auto;
+		text-transform: capitalize;
+3. лишние команды в коде <p> <br>
+         </p>
+4. в css/style.css 
+ в @media screen and (min-width: 1001px)  в color поменять цвет
+		 
+		 .name {
+		text-align: center;
+		font-size: 2.8em;
+
+		color:rgba(175,133,255,1);
+
+		 
+.subtitle {
+	
+		text-align: center;
+		font-size: 1.5em;
+		color: rgba(175,133,255,1);
+
 
 Файл cmd.html.
 1. ...
@@ -13,13 +44,15 @@
 ...
 
 Файл mac.html.
-1. ...
+1. href="../img/fav.ico" поменять фавикон на 
+ href="img/pYaV5xVIZdw.pnd.png"
+
 2. ...
 3. ...
 ...
 
 Файл git.html
-1. ...
+1.
 2. ...
 3. ...
 ...
